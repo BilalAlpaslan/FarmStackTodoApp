@@ -1,6 +1,7 @@
 Farm stack todo app
 
-FAst api<br>
-&nbsp;&nbsp;React<br>
-&nbsp;&nbsp;&nbsp;Mongo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stack
+F A R M<br>
+a p e o<br
+s i a n<br
+t   c g<br
+    t o<br
